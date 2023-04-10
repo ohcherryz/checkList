@@ -1,8 +1,8 @@
 # Чек-лист. Цифровая грамотность
 
-A task for a course in the university that presents a short checklist.
+Задание по курсу "Цифровая грамотность", суть которого заключалась в создании небольшого чек-листа в Figma.
 
-Link:
+Ссылка на проект:
 
 https://www.figma.com/file/RKzEBpqB1zLEsmh6ENRZzt/Untitled?node-id=0%3A1&t=3CxNq0IDte5YyDDA-1
 
