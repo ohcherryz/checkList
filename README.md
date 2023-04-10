@@ -1,4 +1,4 @@
-# checkList
+# Чек-лист. Цифровая грамотность
 
 A task for a course in the university that presents a short checklist.
 
